@@ -1,0 +1,12 @@
+{
+  "name"    : "isitchristmas-electron",
+  "version" : "1.0.0",
+  "dependencies": {
+      "electron": "*"
+  },
+  "main"    : "main.js",
+  "scripts": {
+      "start": "node_modules/.bin/electron ."
+  },
+  "license" : "CC0-1.0"
+}
