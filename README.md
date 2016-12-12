@@ -2,14 +2,15 @@
 
 When you need to have [isitchristmas.com](https://isitchristmas.com) on your desktop.
 
+![](screenshot.gif)
+
 ## Installation
 
-```
-git clone https://github.com/vzvenyach/isitchristmas-electron
-cd isitchristmas-electron
-npm install
-npm start
-```
+`npm install -g isitchristmas-electron`
+
+## Usage:
+
+`xmas?`
 
 ## License
 
